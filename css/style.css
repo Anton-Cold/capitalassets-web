@@ -354,7 +354,7 @@
     display:grid;grid-template-columns:1fr auto;gap:60px;max-width:960px;margin:0 auto;align-items:center;
   }
   .contact-logo{display:flex;justify-content:center;}
-  .contact-logo .brand-logo{width:180px;height:180px;max-width:100%;}
+  .contact-logo .brand-logo{width:220px;height:220px;max-width:100%;}
   .contact-info h2{font-size:2.1rem;margin-bottom:18px;}
   .contact-info p{color:var(--grey);margin-bottom:28px;max-width:460px;}
   .contact-methods{list-style:none;margin-bottom:30px;}
